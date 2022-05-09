@@ -12,9 +12,11 @@ namespace crud
 {
     public partial class ContactDetails : Form
     {
+        private CapaReglaDeNegocios _CapaReglaDeNegocios;
         public ContactDetails()
         {
             InitializeComponent();
+            _CapaReglaDeNegocios = new CapaReglaDeNegocios();
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -54,6 +56,8 @@ namespace crud
             contactos.apellido = txtApellido.Text;
             contactos.contacto = txtCelContacto.Text;
             contactos.direccion = txtDireccion.Text;
+
+            _CapaReglaDeNegocios.guadarContacto(contactos);
         }
     }
 }

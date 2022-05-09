@@ -1,0 +1,12 @@
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\bin\Release\crud.exe.config
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\bin\Release\crud.exe
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\bin\Release\crud.pdb
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.ContactDetails.resources
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.main.resources
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.Properties.Resources.resources
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.csproj.GenerateResource.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.exe
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Release\crud.pdb

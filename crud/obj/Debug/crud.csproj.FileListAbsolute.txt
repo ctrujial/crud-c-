@@ -10,3 +10,15 @@ C:\Users\Cristian\Desktop\Clases\C#\crud\crud\obj\Debug\crud.csproj.GenerateReso
 C:\Users\Cristian\Desktop\Clases\C#\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
 C:\Users\Cristian\Desktop\Clases\C#\crud\crud\obj\Debug\crud.exe
 C:\Users\Cristian\Desktop\Clases\C#\crud\crud\obj\Debug\crud.pdb
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\bin\Debug\crud.exe.config
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\bin\Debug\crud.exe
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\bin\Debug\crud.pdb
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.ContactDetails.resources
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.main.resources
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.exe
+C:\Users\CRISTIAN\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\c#.net\crud-c-\crud\obj\Debug\crud.pdb
